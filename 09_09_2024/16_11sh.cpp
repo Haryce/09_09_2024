@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+    setlocale(LC_ALL, "Russian");
 	double x, y, z, a, b; //присваеваем переменным чтобы число после точки считалось
 
 	// Ввод значений x, y, z
